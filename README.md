@@ -13,7 +13,8 @@ download the repo?
 
 ## How to install:
 drag the batch and the powershell script into bedrock-server-(version)
-also drag the icon somewhere and use a shortcut with the icon for extra fancy launching
+also drag the icon somewhere and use a
+shortcut with the icon for extra fancy launching.
 
 ## Customization:
 Change the **Hook** placeholder in the Powershell script to connect the server to something
