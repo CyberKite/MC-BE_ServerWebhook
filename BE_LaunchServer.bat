@@ -11,7 +11,7 @@ echo Server Started
 
 timeout /t 20 >nul
 
-Powershell.exe -executionpolicy remotesigned -File  SendWebHook.ps1 -content "@everyone Server should be running. Try connecting twice."
+Powershell.exe -executionpolicy remotesigned -File  SendWebHook.ps1 -content "Server should be running. Try connecting."
 echo Server is running. Hide this Window
 
 :loop
