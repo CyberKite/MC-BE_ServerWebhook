@@ -3,7 +3,7 @@ $hookUrl = "hook"
 
 #$content = read-host -prompt "Enter Message" code from stackoverflow lol
 #$content = "predefined"
-#i'll use a param
+#I'll use a param
 
 $payload = [PSCustomObject]@{content = $content}
 
